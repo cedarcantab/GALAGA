@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "Wasp1.png",
+	"frame": {"x":0,"y":0,"w":52,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":40},
+	"sourceSize": {"w":52,"h":40}
+},
+{
+	"filename": "Wasp2.png",
+	"frame": {"x":52,"y":0,"w":36,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":40},
+	"sourceSize": {"w":36,"h":40}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Wasp.png",
+	"format": "RGBA8888",
+	"size": {"w":88,"h":40},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4538ae19e8c11d733d8d4751086bb0d2:8313d6c77d442dc50a2a7b081049699a:a463f3e5196fa04f2e27f321d01cea32$"
+}
+}
